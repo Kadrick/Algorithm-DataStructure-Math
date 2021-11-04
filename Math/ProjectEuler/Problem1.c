@@ -2,7 +2,7 @@
  * > file: Problem1.c
  * > author: Kadrick / Bo Gwon Kang (kbk2581553@gmail.com)
  * > date: 2021-10-17 03:37 
- * > description: 
+ * > description: sum
  * @copyright Copyright (c) 2021
  */
 #include <stdio.h>
